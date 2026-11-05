@@ -1,0 +1,211 @@
+{
+  "common": {
+    "appName": "Holier",
+    "slogan": "See His faithfulness. Respond in obedience.",
+    "nav": {
+      "label": "Main navigation",
+      "today": "Today",
+      "study": "Study",
+      "journal": "Journal",
+      "profile": "Profile"
+    },
+    "actions": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "close": "Close",
+      "done": "Done",
+      "add": "Add",
+      "delete": "Delete",
+      "back": "Back"
+    },
+    "states": {
+      "peace": "Walking in peace",
+      "struggle": "In the struggle",
+      "relapse": "I fell today"
+    },
+    "emotions": {
+      "peace": "Peace",
+      "gratitude": "Gratitude",
+      "joy": "Joy",
+      "anxiety": "Anxiety",
+      "sadness": "Sadness",
+      "temptation": "Temptation"
+    },
+    "emotionsInline": {
+      "peace": "peace",
+      "gratitude": "gratitude",
+      "joy": "joy",
+      "anxiety": "anxiety",
+      "sadness": "sadness",
+      "temptation": "temptation"
+    },
+    "dates": {
+      "today": "Today",
+      "yesterday": "Yesterday"
+    },
+    "loading": "Loading…"
+  },
+
+  "auth": {
+    "signInTitle": "Sign in",
+    "signUpTitle": "Create your account",
+    "email": "Email",
+    "password": "Password",
+    "passwordHint": "At least 8 characters.",
+    "displayName": "Name (optional)",
+    "submitSignIn": "Sign in",
+    "submitSignUp": "Create account",
+    "switchToSignUp": "New here? Create an account",
+    "switchToSignIn": "Already have an account? Sign in",
+    "privacyNote": "Your entries are private: other users can't see them.",
+    "checkEmailTitle": "Check your email",
+    "checkEmailBody": "We sent a confirmation link to {{email}}. Open it to finish creating your account.",
+    "errors": {
+      "invalidEmail": "Enter a valid email address.",
+      "weakPassword": "Use at least 8 characters.",
+      "invalidCredentials": "That email and password don't match.",
+      "emailTaken": "An account with that email already exists.",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+
+  "today": {
+    "greeting": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    },
+    "invitation": {
+      "cta": "Start devotional",
+      "hint": "About ten minutes to read, observe, and pray."
+    },
+    "recent": {
+      "title": "Recent reflections",
+      "viewAll": "See the whole journal",
+      "emptyTitle": "Your story with God starts here",
+      "emptyBody": "When you make your first entry, your reflections will appear here."
+    },
+    "numbers": {
+      "summary": "Recent entries: {{total}}. At peace: {{peace}}. In the struggle: {{struggle}}. Falls: {{relapse}}."
+    }
+  },
+
+  "checkIn": {
+    "title": "How are you today?",
+    "emotionQuestion": "Which emotion stands out?",
+    "noteLabel": "A note to remember (optional)",
+    "notePlaceholder": "Whatever you want to tell God or remember about today",
+    "counter": "{{count}}/500",
+    "save": "Save entry",
+    "cancel": "Cancel",
+    "done": "Done",
+    "loggedToday": "You checked in today: {{state}}.",
+    "addAnother": "Add another entry",
+    "entryLine": "{{state}}, with {{emotion}}",
+    "saveError": "We couldn't save your entry. Check your connection and try again.",
+    "grace": {
+      "peace": "Give thanks. What you have today is also his work.",
+      "struggle": "Being in the struggle doesn't mean you've failed. Ask for the way out he promised.",
+      "relapse": "This doesn't change what Christ has already done for you. Return to him today, just as you are."
+    }
+  },
+
+  "journal": {
+    "entriesTitle": "Entries",
+    "entriesEmpty": "Your entries will appear here, from newest to oldest.",
+    "loadMore": "Load more",
+    "deleteTitle": "Delete this entry?",
+    "deleteBody": "This can't be undone.",
+    "deleteConfirm": "Delete entry"
+  },
+
+  "stones": {
+    "title": "Ebenezer stones",
+    "intro": "Write down what you've seen God do, so you can remember it when you doubt.",
+    "inputLabel": "New stone",
+    "placeholder": "What did God do today?",
+    "add": "Add",
+    "deleteTitle": "Delete this stone?",
+    "deleteBody": "This can't be undone.",
+    "deleteConfirm": "Delete stone"
+  },
+
+  "sos": {
+    "button": "I'm struggling now",
+    "dialogLabel": "I'm struggling now",
+    "line1": "Get up, change rooms, and breathe deeply. This will pass, and you are not alone.",
+    "prayer": "Lord, I am weak and I need you now. You are stronger than what is calling me. Give me the way out you promised and remind me who I am in Christ. Amen.",
+    "line2": "When you can, reach out to someone you trust.",
+    "logCta": "Log how I'm doing",
+    "close": "Close"
+  },
+
+  "study": {
+    "title": "The guided devotional is coming soon.",
+    "intro": "This is how each session will go:",
+    "steps": {
+      "read": {
+        "title": "Read",
+        "body": "The full passage, with key Hebrew or Greek words pointed out."
+      },
+      "observe": {
+        "title": "Observe",
+        "body": "Questions to look closely at the text before interpreting it."
+      },
+      "apply": {
+        "title": "Apply",
+        "body": "What God is saying to you in what you're living today."
+      },
+      "pray": { "title": "Pray", "body": "Concrete points to respond to him." }
+    },
+    "back": "Back to Today"
+  },
+
+  "profile": {
+    "signedInAs": "Signed in as {{email}}",
+    "darkMode": {
+      "title": "Dark mode",
+      "description": "Easier on the eyes for reading and praying at night."
+    },
+    "showNumbers": {
+      "title": "Show numbers",
+      "description": "Life with God isn't measured in streaks. If you prefer to see counts, you can turn them on here."
+    },
+    "language": {
+      "title": "Language",
+      "description": "The language of the app's interface."
+    },
+    "bibleTranslation": {
+      "title": "Bible translation",
+      "description": "Used for every verse in the app."
+    },
+    "signOut": "Sign out"
+  },
+
+  "errors": {
+    "notFoundTitle": "We couldn't find that page.",
+    "notFoundBody": "Let's get you back.",
+    "notFoundAction": "Go to Today",
+    "generic": "Something went wrong. Please try again.",
+    "loadFailed": "We couldn't load this. Check your connection and try again.",
+    "retry": "Try again"
+  },
+
+  "books": {
+    "psalms": "Psalm",
+    "lamentations": "Lamentations",
+    "deuteronomy": "Deuteronomy",
+    "1samuel": "1 Samuel",
+    "jeremiah": "Jeremiah",
+    "micah": "Micah",
+    "romans": "Romans",
+    "1corinthians": "1 Corinthians",
+    "galatians": "Galatians",
+    "philippians": "Philippians",
+    "1thessalonians": "1 Thessalonians",
+    "2timothy": "2 Timothy",
+    "hebrews": "Hebrews",
+    "james": "James",
+    "1john": "1 John"
+  }
+}

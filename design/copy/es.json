@@ -1,0 +1,208 @@
+{
+  "common": {
+    "appName": "Holier",
+    "slogan": "Ve su fidelidad. Responde en obediencia.",
+    "nav": {
+      "label": "Navegación principal",
+      "today": "Hoy",
+      "study": "Estudio",
+      "journal": "Diario",
+      "profile": "Perfil"
+    },
+    "actions": {
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "close": "Cerrar",
+      "done": "Listo",
+      "add": "Agregar",
+      "delete": "Eliminar",
+      "back": "Volver"
+    },
+    "states": {
+      "peace": "Caminando en paz",
+      "struggle": "En la lucha",
+      "relapse": "Caí hoy"
+    },
+    "emotions": {
+      "peace": "Paz",
+      "gratitude": "Gratitud",
+      "joy": "Alegría",
+      "anxiety": "Ansiedad",
+      "sadness": "Tristeza",
+      "temptation": "Tentación"
+    },
+    "emotionsInline": {
+      "peace": "paz",
+      "gratitude": "gratitud",
+      "joy": "alegría",
+      "anxiety": "ansiedad",
+      "sadness": "tristeza",
+      "temptation": "tentación"
+    },
+    "dates": {
+      "today": "Hoy",
+      "yesterday": "Ayer"
+    },
+    "loading": "Cargando…"
+  },
+
+  "auth": {
+    "signInTitle": "Iniciar sesión",
+    "signUpTitle": "Crea tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "passwordHint": "Al menos 8 caracteres.",
+    "displayName": "Nombre (opcional)",
+    "submitSignIn": "Iniciar sesión",
+    "submitSignUp": "Crear cuenta",
+    "switchToSignUp": "¿Eres nuevo? Crea una cuenta",
+    "switchToSignIn": "¿Ya tienes cuenta? Inicia sesión",
+    "privacyNote": "Tus registros son privados: otros usuarios no pueden verlos.",
+    "checkEmailTitle": "Revisa tu correo",
+    "checkEmailBody": "Enviamos un enlace de confirmación a {{email}}. Ábrelo para terminar de crear tu cuenta.",
+    "errors": {
+      "invalidEmail": "Ingresa un correo válido.",
+      "weakPassword": "Usa al menos 8 caracteres.",
+      "invalidCredentials": "Ese correo y esa contraseña no coinciden.",
+      "emailTaken": "Ya existe una cuenta con ese correo.",
+      "generic": "Algo salió mal. Inténtalo de nuevo."
+    }
+  },
+
+  "today": {
+    "greeting": {
+      "morning": "Buenos días",
+      "afternoon": "Buenas tardes",
+      "evening": "Buenas noches"
+    },
+    "invitation": {
+      "cta": "Empezar devocional",
+      "hint": "Unos diez minutos para leer, observar y orar."
+    },
+    "recent": {
+      "title": "Reflexiones recientes",
+      "viewAll": "Ver todo el diario",
+      "emptyTitle": "Tu historia con Dios empieza aquí",
+      "emptyBody": "Cuando hagas tu primer registro, tus reflexiones aparecerán en este lugar."
+    },
+    "numbers": {
+      "summary": "Registros recientes: {{total}}. En paz: {{peace}}. En la lucha: {{struggle}}. Caídas: {{relapse}}."
+    }
+  },
+
+  "checkIn": {
+    "title": "¿Cómo estás hoy?",
+    "emotionQuestion": "¿Qué emoción predomina?",
+    "noteLabel": "Una nota para recordar (opcional)",
+    "notePlaceholder": "Lo que quieras decirle a Dios o recordar de hoy",
+    "counter": "{{count}}/500",
+    "save": "Guardar registro",
+    "cancel": "Cancelar",
+    "done": "Listo",
+    "loggedToday": "Hoy registraste: {{state}}.",
+    "addAnother": "Agregar otro registro",
+    "entryLine": "{{state}}, con {{emotion}}",
+    "saveError": "No pudimos guardar tu registro. Revisa tu conexión e inténtalo de nuevo.",
+    "grace": {
+      "peace": "Da gracias. Lo que hoy tienes también es obra suya.",
+      "struggle": "Estar en la lucha no es haber fracasado. Pide la salida que él prometió.",
+      "relapse": "Esto no cambia lo que Cristo ya hizo por ti. Vuelve a él hoy, tal como estás."
+    }
+  },
+
+  "journal": {
+    "entriesTitle": "Registros",
+    "entriesEmpty": "Tus registros aparecerán aquí, del más reciente al más antiguo.",
+    "loadMore": "Cargar más",
+    "deleteTitle": "¿Eliminar este registro?",
+    "deleteBody": "Esta acción no se puede deshacer.",
+    "deleteConfirm": "Eliminar registro"
+  },
+
+  "stones": {
+    "title": "Piedras de Ebenezer",
+    "intro": "Anota lo que has visto a Dios hacer, para recordarlo cuando dudes.",
+    "inputLabel": "Nueva piedra",
+    "placeholder": "¿Qué hizo Dios hoy?",
+    "add": "Agregar",
+    "deleteTitle": "¿Eliminar esta piedra?",
+    "deleteBody": "Esta acción no se puede deshacer.",
+    "deleteConfirm": "Eliminar piedra"
+  },
+
+  "sos": {
+    "button": "Estoy luchando ahora",
+    "dialogLabel": "Estoy luchando ahora",
+    "line1": "Levántate, cambia de lugar y respira hondo. Esto va a pasar, y no estás solo.",
+    "prayer": "Señor, estoy débil y te necesito ahora. Tú eres más fuerte que esto que me llama. Dame la salida que prometiste y recuérdame quién soy en Cristo. Amén.",
+    "line2": "Cuando puedas, escríbele a alguien de confianza.",
+    "logCta": "Registrar cómo estoy",
+    "close": "Cerrar"
+  },
+
+  "study": {
+    "title": "El devocional guiado llega pronto.",
+    "intro": "Así será cada sesión:",
+    "steps": {
+      "read": {
+        "title": "Leer",
+        "body": "El pasaje completo, con las palabras clave en hebreo o griego señaladas."
+      },
+      "observe": {
+        "title": "Observar",
+        "body": "Preguntas para mirar el texto antes de interpretarlo."
+      },
+      "apply": { "title": "Aplicar", "body": "Qué te dice Dios en lo que estás viviendo hoy." },
+      "pray": { "title": "Orar", "body": "Puntos concretos para responderle." }
+    },
+    "back": "Volver a Hoy"
+  },
+
+  "profile": {
+    "signedInAs": "Sesión iniciada como {{email}}",
+    "darkMode": {
+      "title": "Modo oscuro",
+      "description": "Más cómodo para leer y orar de noche."
+    },
+    "showNumbers": {
+      "title": "Mostrar números",
+      "description": "La vida con Dios no se mide en rachas. Si prefieres ver conteos, puedes activarlos aquí."
+    },
+    "language": {
+      "title": "Idioma",
+      "description": "El idioma de la interfaz de la app."
+    },
+    "bibleTranslation": {
+      "title": "Traducción bíblica",
+      "description": "Se usa para todos los versículos de la app."
+    },
+    "signOut": "Cerrar sesión"
+  },
+
+  "errors": {
+    "notFoundTitle": "No encontramos esa página.",
+    "notFoundBody": "Te llevamos de vuelta.",
+    "notFoundAction": "Ir a Hoy",
+    "generic": "Algo salió mal. Inténtalo de nuevo.",
+    "loadFailed": "No pudimos cargar esto. Revisa tu conexión e inténtalo de nuevo.",
+    "retry": "Reintentar"
+  },
+
+  "books": {
+    "psalms": "Salmo",
+    "lamentations": "Lamentaciones",
+    "deuteronomy": "Deuteronomio",
+    "1samuel": "1 Samuel",
+    "jeremiah": "Jeremías",
+    "micah": "Miqueas",
+    "romans": "Romanos",
+    "1corinthians": "1 Corintios",
+    "galatians": "Gálatas",
+    "philippians": "Filipenses",
+    "1thessalonians": "1 Tesalonicenses",
+    "2timothy": "2 Timoteo",
+    "hebrews": "Hebreos",
+    "james": "Santiago",
+    "1john": "1 Juan"
+  }
+}
